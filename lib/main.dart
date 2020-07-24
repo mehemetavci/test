@@ -5,6 +5,6 @@ import 'drawer.dart';
 void main() {
   runApp(new MaterialApp(
     home: Draw(),
-    title: 'drawer',
+    title: 'draw',
   ));
 }
